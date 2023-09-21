@@ -5,7 +5,7 @@ EA Model Shapefile repository
 
 ## Background
 
-The EA model is a spatial explicit ecosystem model designed to do ecosystem assessment and MSE . In this repository, we provide the "Antarctica_28.shp" shapefile, which represents the boundaries and geographic features (Polygons) of the EA model for Antarctica.
+The EA model is a spatial explicit ecosystem model designed to do ecosystem assessment and MSE . In this repository, we provide the "EAA29.shp" shapefile, which represents the boundaries and geographic features (Polygons) of the EA model for Antarctica.
 
 ## History of the File
 
