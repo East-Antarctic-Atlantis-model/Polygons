@@ -2,8 +2,8 @@
 
 EA Model Shapefile repository
 ## Work in progress: adding a polygon (tot. 29)
-[] create .bgm file with correct cordinates (see CRS code)
-[] test new bgm file with initial conditions for 29 polygons
+- [] create .bgm file with correct cordinates (see CRS code)
+- [] test new bgm file with initial conditions for 29 polygons
 
 ## Background
 
