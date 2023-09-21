@@ -11,7 +11,7 @@ The EA model is a spatial explicit ecosystem model designed to do ecosystem asse
 - **[EAA29.shp](EA29_final/EAA29.shp)**: This shapefile serves as the main input for the Atlantis model for Antarctica. It was created on 21/09/2023 based on a comprehensive data collection and processing effort (cite the people that worked on that). Previous versions: 
         This model is a small version of the original EA model designed by Beth Fulton and concentrated around Prydz Bay and the areas affected by seasonal sea ice extent south of the Kerguelen Plateau, in East Antarctica.
 - **add BGM files**
-- **[generateBGM.SH] (generateBGM.sh)**: script for turning shapefile (.shp) into a format readable by Atlantis model (.bgm)
+- **[generateBGM.sh](generateBGM.sh)**: script for turning shapefile (.shp) into a format readable by Atlantis model (.bgm) 
 
 ## Decision Process for Polygon Creation
 
