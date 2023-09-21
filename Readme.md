@@ -1,6 +1,7 @@
-# Antarctica_28.shp - East Antarctic Atlantis Model Shapefile
+# Antarctica_29.shp - East Antarctic Atlantis Model Shapefile
 
 EA Model Shapefile repository
+## Work in progress: adding a polygon (tot. 29)
 
 ## Background
 
