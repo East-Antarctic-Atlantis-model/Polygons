@@ -9,7 +9,7 @@ The EA model is a spatial explicit ecosystem model designed to do ecosystem asse
 
 ## History of the File
 
-- **[Antarctica_28.shp](Antarctica_28.shp)**: This shapefile serves as the main input for the Atlantis model for Antarctica. It was created in ***** (This should be updated) based on a comprehensive data collection and processing effort (cite the people that worked on that).
+- **[EAA29.shp](EA29_final/EAA29.shp)**: This shapefile serves as the main input for the Atlantis model for Antarctica. It was created on 21/09/2023 based on a comprehensive data collection and processing effort (cite the people that worked on that). Previous versions: 
         This model is a small version of the original EA model designed by Beth Fulton and concentratated around #### and &&&& (and something here)
 - **add BGM files**
 - ** add .sh file to run Begemizer*
