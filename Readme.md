@@ -4,6 +4,7 @@ EA Model Shapefile repository
 ## Work in progress: adding a polygon (tot. 29)
 - [x] create .bgm file with correct cordinates (see CRS code)
 - [ ] test new bgm file with initial conditions for 29 polygons
+- [ ] commit "final" polygon map with 29 boxes + correct CRS
 
 ## Background
 
@@ -19,7 +20,7 @@ The EA model is a spatial explicit ecosystem model designed to assess ecosystem 
 
 The creation of the shapefile involved the following steps:
 
-1. **Data Compilation**: Relevant environmental and geographical data for Antarctica were collected from several sources, including satellite imagery, surveys, and datasets collated for bioregionalisation aimed towards the establishment of a Marine Protected Area (see Constable et al. 2014a, b, c, available through https://meetings.ccamlr.org/en/sc-camlr-xxxiii/bg/38)
+1. **Data Compilation**: Relevant environmental and geographical data for Antarctica were collected from several sources, including satellite imagery, surveys, and datasets collated for bioregionalisation aimed towards the establishment of a Marine Protected Area (see Constable et al. 2014a, b, c, available through [East Antarctica Planning Domain MPA Planning Reference Document #1: Draft MPA Report Part 1 – the Planning Domain and Candidate MPAs](https://meetings.ccamlr.org/en/sc-camlr-xxxiii/bg/38))
 
 3. **Spatial Analysis**: Geographic Information Systems (GIS) tools were employed to define the boundaries and attributes of the polygons within the shapefile. The polygon representing the Kerguelen Plateau (no. 21) has been split in two separate polygons (through QGIS) due to different flow regimes affecting local habitats.
 
